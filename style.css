@@ -1,0 +1,123 @@
+body{
+    padding: 0;
+    margin: 0;
+    background:url(background.webp);
+}
+
+.toparea{
+    padding: 5px 245px;
+    margin: 0;
+    background: #B95752;
+}
+.logoarea{
+    padding: 34px 50px;
+    background: #F2C38B;
+}
+.logoarea img{
+    width: 110px;
+    margin:25px;
+    margin-left: 75px;
+}
+.logoarea h1{
+    text-align: center;
+    color: #74353F;
+    
+}
+.logoarea h4{
+
+}
+.parea{
+    margin: 0;
+    background: #ffffff;
+    padding: 10px 50px;
+    text-align: center;
+}
+.parea img:last-child{
+    width: 210px;
+}
+.parea p{
+    text-align: justify;
+}
+.barea{
+    padding: 50px 125px 75px 125px;
+    margin: 20 2;
+    text-align: center;
+    
+    
+}
+.barea p{
+    text-align: center;
+    background: #ffffff;
+    padding: 20px 200px;
+}
+.box{
+    padding: 50px 45px;
+    margin:5px 15px 30px 5px ;
+    background:#ffffff;
+    
+}
+.box img{
+    width: 100%;
+    border-radius: 50%;
+    transition:all 2s;
+}
+.box img:hover{
+    transform: rotate(360deg);
+}
+.alumniarea{
+    background:url(last1.jpg);
+    text-align: center;
+    background-size: 1500px 310px;
+    background-repeat: no-repeat;
+    padding: 60px 0px 90px 0px ;
+
+}
+.alumniarea img{
+    padding-left: 400px;
+}
+.pic1{
+    align-items: center;
+}
+.footerarea{
+    background: #1D1D1D;
+    padding: 50px 110px;
+}
+.footerarea h4{ 
+    color: #ffffff;
+    border-left: solid 5px white;
+    padding-left: 8px;
+}
+.footerarea p{
+    color: #F2C38B;
+    
+}
+.footerarea i{
+    color: #D37F57;
+    padding-top: 10px;
+    padding-left: 0;
+    
+}
+.footerarea ul{
+    font-family: inherit;
+    list-style-type: none;
+    
+}
+.footerarea ul li{
+    transition: all 2s;
+}
+.footerarea ul li:hover{
+   
+    
+    transform: translateX(5px);
+    
+}
+.m1{
+    height: 1px;
+    width: 100%;
+    background-image: linear-gradient(to left,transparent,white,transparent);
+    
+}
+.footerarea p:last-child{
+    text-align: center;
+    padding-top: 20px;
+}
